@@ -1,10 +1,10 @@
 ### Includes:
 
-*   [Speedinator](https://david2410.github.io/Privacy-Policies/Speedinator.html)
-*   [TelePink Messenger](https://david2410.github.io/Privacy-Policies/TelePink.html)
-*   [Logo Quiz](https://david2410.github.io/Privacy-Policies/LogoQuiz.html)
-*   [Guess the Emoji](https://david2410.github.io/Privacy-Policies/GuesstheEmoji.html)
-*   [QR Code Reader + Generator](https://david2410.github.io/Privacy-Policies/QR.html)
-*   [VR Compatibility Checker](http://david2410.github.io/Privacy-Policies/VR.html)
+*   [Speedinator](https://pavi2410.github.io/privacy_policy/Speedinator.html)
+*   [TelePink Messenger](https://pavi2410.github.io/privacy_policy/TelePink.html)
+*   [Logo Quiz](https://pavi2410.github.io/privacy_policy/LogoQuiz.html)
+*   [Guess the Emoji](https://pavi2410.github.io/privacy_policy/GuesstheEmoji.html)
+*   [QR Code Reader + Generator](https://pavi2410.github.io/privacy_policy/QR.html)
+*   [VR Compatibility Checker](http://pavi2410.github.io/privacy_policy/VR.html)
 
-For more info, contact me at pavitragolchha@gmail.com
+For more info, contact me at pavitragolchha(at)gmail.com
