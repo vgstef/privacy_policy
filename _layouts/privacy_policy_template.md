@@ -1,7 +1,7 @@
-PRIVACY POLICY : {{ page.name }}
+PRIVACY POLICY : {{ page.app_name }}
 ----------------------------
 
-This privacy policy governs your use of the software application {{ page.name }} (“Application”) for mobile devices that was created by {{ site.github.owner_name }}. The Application is a social messenger which is used for free-of-cost communication across the world. 
+This privacy policy governs your use of the software application {{ page.app_name }} (“Application”) for mobile devices that was created by {{ site.github.owner_name }}. The Application is a social messenger which is used for free-of-cost communication across the world. 
 
 ### What information does the Application obtain and how is it used?
 
