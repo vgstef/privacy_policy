@@ -1,4 +1,4 @@
 ---
 layout: privacy_policy_template
-name: Speedinator Browser
+app_name: Speedinator Browser
 ---
