@@ -1,4 +1,4 @@
 ---
 layout: privacy_policy_template
-name: TelePink Messenger
+app_name: TelePink Messenger
 ---
