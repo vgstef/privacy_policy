@@ -1,8 +1,8 @@
-{% capture privacyPolicyTemplate %}
+{% capture privacy_policy_template %}
 PRIVACY POLICY : {{ page.app_name }}
 ----------------------------
 
-This privacy policy governs your use of the software application {{ page.app_name }} (“Application”) for mobile devices that was created by {{ site.github.owner_name }}. The Application is a social messenger which is used for free-of-cost communication across the world. 
+This privacy policy governs your use of the software application {{ page.app_name }} (“Application”) for mobile devices that was created by {{ site.owner_name }}. The Application is a social messenger which is used for free-of-cost communication across the world. 
 
 ### What information does the Application obtain and how is it used?
 
@@ -34,7 +34,7 @@ We may disclose User Provided and Automatically Collected Information:
     
 - with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them and have agreed to adhere to the rules set forth in this privacy statement.
     
-- if {{ site.github.owner_name }} is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
+- if {{ site.owner_name }} is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
     
 - to advertisers and third-party advertising networks and analytics companies as described in the section below
 
@@ -77,4 +77,4 @@ By using the Application, you are consenting to our processing of your informati
 If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at {{ site.email }}.
 {% endcapture %}
 
-{{ privacyPolicyTemplate | markdownify }}
+{{ privacy_policy_template | markdownify }}
