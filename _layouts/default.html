@@ -1,0 +1,5 @@
+{% capture privacy_policy_template %}
+{% include privacy_policy_template.md %}
+{% endcapture %}
+
+{{ privacy_policy_template | markdownify }}
