@@ -1,3 +1,7 @@
+---
+title: PRIVACY POLICY | VR Compatibility Checker
+---
+
 PRIVACY POLICY : VR Compatibility Checker
 ---
 
