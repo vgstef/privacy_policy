@@ -1,11 +1,11 @@
 ---
-title: PRIVACY POLICY : VR Compatibility Checker
+title: PRIVACY POLICY : Repeat
 ---
 
-PRIVACY POLICY : VR Compatibility Checker
+PRIVACY POLICY : Repeat
 ---
 
-This privacy policy governs your use of the software application VR Compatibility Checker (“Application”) for mobile devices that was created by {{ site.owner_name }}. The Application provides compatibility information on whether your device is ready for Virtual Reality or not. 
+This privacy policy governs your use of the software application Repeat (“Application”) for mobile devices that was created by {{ site.owner_name }}. The Application provides compatibility information on whether your device is ready for Virtual Reality or not. 
 
 ### What information does the Application obtain and how is it used?
 
